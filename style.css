@@ -1,0 +1,15 @@
+image{
+    
+    height: 200px;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+img {
+    height: 350px;
+    width: 400px;
+    padding-left: 5px;
+    padding-bottom: 15px;    
+}
